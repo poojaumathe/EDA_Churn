@@ -1,7 +1,7 @@
-# EDA_Churn
-Exploratory Data Analysis on Churn data set in R programming
 
-# The data set contains 20 predictors worth of information about 3333 customers, along with the
+# Exploratory Data Analysis on Churn data set in R programming
+
+The data set contains 20 predictors worth of information about 3333 customers, along with the
 target variable, churn, an indication of whether that customer churned (left the company) or not.
 
 Exploratory Data Analysis:
